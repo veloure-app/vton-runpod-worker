@@ -26,4 +26,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: youngpetrea/vton-worker:v1
+          tags: youngpetrea/vton-worker:v2
